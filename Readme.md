@@ -11,3 +11,10 @@ npx cypress open
 
 # See Tests report--
 We can see what tests has ran by clicking on cypress test runner
+
+# Notes--
+-If this repo giving errors, you may need to reinstall Cypress latest version(10.3.0).
+- For this go to your /Users/admin/Library/Caches/Cypress
+- Delete this Cache folder
+- Restart project in Vs code.
+- Now try npx cypress open 
